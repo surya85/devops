@@ -1,2 +1,3 @@
  This is a third test file and this is to check on the merging branch changes
+ this a merging conflict
 
