@@ -1,3 +1,7 @@
+<<<<<<< HEAD
  This is a third test file and this is to check on the merging branch changes
  this a merging conflict
+=======
+ This is a third test file and this is to check on the merging branch changes and this gonna be the mergingn conflict now
+>>>>>>> ad6b971884f4d5e964a7f9c2eac01ab7856da502
 
