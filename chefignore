@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Put files/directories that should be ignored in this file when uploading
 # to a chef-server or supermarket.
 # Lines that start with '# ' are comments.
@@ -100,3 +101,16 @@ Strainerfile
 ###########
 .vagrant
 Vagrantfile
+=======
+# Put files/directories that should be ignored in this file.
+# Lines that start with '# ' are comments.
+
+# emacs
+*~
+
+# vim
+*.sw[a-z]
+
+# subversion
+*/.svn/*
+>>>>>>> 605eeda8254b7cc33dcdeeb665f5c1d59d44b2ac

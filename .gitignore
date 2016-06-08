@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.rbc
 .config
 coverage
@@ -47,3 +48,12 @@ Policyfile.lock.json
 .vagrant/
 .vagrant.d/
 .kitchen/
+=======
+.rake_test_cache
+
+###
+# Ignore Chef key files and secrets
+###
+.chef/*.pem
+.chef/encrypted_data_bag_secret
+>>>>>>> 605eeda8254b7cc33dcdeeb665f5c1d59d44b2ac
